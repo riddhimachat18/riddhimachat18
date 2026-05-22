@@ -32,7 +32,7 @@ I build production-ready AI systems — GenAI pipelines, RAG architectures, ML m
 |---|---|---|
 | [**DocuMind**](https://github.com/riddhimachat18/DocuMind-V2) | LLM-based platform that transforms unstructured communication into IEEE 830-compliant BRDs with sentence-level traceability, conflict detection & quality scoring | Gemini 2.5 Flash · ChromaDB · RAG · Firebase · GCP |
 | [**MannMitra**](https://github.com/riddhimachat18) | Production-ready multilingual mental health platform with multimodal emotion analysis (text + voice) and real-time speech interfaces | Gemini · Firebase · React · GCP · NLP · Speech AI |
-| [**FasalSetu**](https://github.com/riddhimachat18/FasalSetu_V3) | Multilingual crop advisory chatbot with RAG pipeline integrating weather, soil & crop data, and a 3-layer ML pipeline for NPK prediction & disease detection | Gemini · RAG · XGBoost · Computer Vision · NLP |
+| [**FasalSetu**](https://github.com/riddhimachat18/FasalSetu_V5) | Multilingual crop advisory chatbot with RAG pipeline integrating weather, soil & crop data, and a 3-layer ML pipeline for NPK prediction & disease detection | Gemini · RAG · XGBoost · Computer Vision · NLP |
 | [**Storax**](https://github.com/riddhimachat18) | Smart cold storage analytics platform using IoT sensor data and ML to predict food spoilage and shelf life across 10,000+ sensor readings | XGBoost · TabNet · 1D CNN · IoT Analytics · Python |
 
 ---
